@@ -3,7 +3,7 @@ package com.kodilla.homework;
 public class OperatingSystem {
     private int year;
 
-    public OperatingSystem() {};
+    public OperatingSystem() {}
 
     public OperatingSystem(int yearToSet) {
         year = yearToSet;
